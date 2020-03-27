@@ -1,2 +1,0 @@
-[26-Mar-2020 13:32:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Hooks.php on line 55
-[26-Mar-2020 13:32:50 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 257
